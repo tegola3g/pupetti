@@ -1,0 +1,2 @@
+# pupetti
+bitcoin minatore pupetti
